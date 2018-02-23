@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['cdir',['cdir',['../paging_8c.html#af7da380833e92d5c7d3c3db41484713b',1,'paging.c']]],
+  ['changestate',['changeState',['../pcb_8c.html#a45bb59197b4b7b4560bc908b8bdfbde3',1,'changeState(PCB *pcb, int state):&#160;pcb.c'],['../pcb_8h.html#a45bb59197b4b7b4560bc908b8bdfbde3',1,'changeState(PCB *pcb, int state):&#160;pcb.c']]],
+  ['checkdate',['checkDate',['../real__time__clock_8c.html#adfa0438c33a6fd63e615831b5ffec549',1,'checkDate(int day, int mon, int year):&#160;real_time_clock.c'],['../real__time__clock_8h.html#adfa0438c33a6fd63e615831b5ffec549',1,'checkDate(int day, int mon, int year):&#160;real_time_clock.c']]],
+  ['classid',['classID',['../structpcb.html#a04269302716954d77ca6bc1a99f4403b',1,'pcb']]],
+  ['clear_5fbit',['clear_bit',['../paging_8h.html#adcef508c82c20a032508f871e79e1b92',1,'clear_bit(u32int addr):&#160;paging.c'],['../paging_8c.html#adcef508c82c20a032508f871e79e1b92',1,'clear_bit(u32int addr):&#160;paging.c']]],
+  ['cli',['cli',['../system_8h.html#a68c330e94fe121eba993e5a5973c3162',1,'system.h']]],
+  ['com1',['COM1',['../serial_8h.html#a00dbb3ab1c59e14699be9393693e2248',1,'COM1():&#160;serial.h'],['../kmain_8c.html#a00dbb3ab1c59e14699be9393693e2248',1,'COM1():&#160;kmain.c'],['../command__handler_8c.html#a00dbb3ab1c59e14699be9393693e2248',1,'COM1():&#160;command_handler.c'],['../polling_8h.html#a00dbb3ab1c59e14699be9393693e2248',1,'COM1():&#160;polling.h']]],
+  ['com2',['COM2',['../serial_8h.html#a435e02f194c24c9b0e00d7cd27a1704e',1,'serial.h']]],
+  ['com3',['COM3',['../serial_8h.html#abbed02672431595364c5dd35809303a6',1,'serial.h']]],
+  ['com4',['COM4',['../serial_8h.html#a595cabb01568ba641574d24546d99c6b',1,'serial.h']]],
+  ['com_5fhandler',['com_handler',['../command__handler_8c.html#a6105259549e25f401e95bf069284247d',1,'com_handler():&#160;command_handler.c'],['../command__handler_8h.html#a6105259549e25f401e95bf069284247d',1,'com_handler():&#160;command_handler.c']]],
+  ['com_5fport',['COM_PORT',['../mpx__supt_8h.html#a702309aca6604d528fd1e9aa0879a0c7',1,'mpx_supt.h']]],
+  ['command_5fhandler_2ec',['command_handler.c',['../command__handler_8c.html',1,'']]],
+  ['command_5fhandler_2eh',['command_handler.h',['../command__handler_8h.html',1,'']]],
+  ['commandnum',['commandNum',['../polling_8c.html#a1c5675eceda73acf829cc5bd0d171463',1,'polling.c']]],
+  ['complete_5fdate',['COMPLETE_DATE',['../command__handler_8h.html#a4fc92a38a929f850cbdbf1bb502c7e30',1,'command_handler.h']]],
+  ['coprocessor',['coprocessor',['../interrupts_8c.html#a5c538c7b7a55e3c981780b599fcb1de7',1,'interrupts.c']]],
+  ['coprocessor_5fsegment',['coprocessor_segment',['../interrupts_8c.html#a1d688a0a370977c03fa98884a6e771e9',1,'interrupts.c']]],
+  ['count',['count',['../structQueue.html#a0f56b04440d87d231b06f3e287c8eb6a',1,'Queue::count()'],['../help_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'count():&#160;help.c'],['../queue__commands_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'count():&#160;queue_commands.c']]],
+  ['count_5fptr',['count_ptr',['../structparam.html#ab61d8fe96dbeed1ef0387802ac453c53',1,'param']]],
+  ['cr',['CR',['../polling_8h.html#a876ce77f3c672c7162658151e648389e',1,'polling.h']]],
+  ['create',['create',['../queue__commands_8c.html#a257e4da68d167e9bdadf0b18a8cb00d7',1,'create(char *name, int pClass, int priority):&#160;queue_commands.c'],['../queue__commands_8h.html#a257e4da68d167e9bdadf0b18a8cb00d7',1,'create(char *name, int pClass, int priority):&#160;queue_commands.c']]],
+  ['curr_5fheap',['curr_heap',['../heap_8c.html#afaac4d3fb801ecbd3c6fe3c995d5cf82',1,'heap.c']]],
+  ['current_5fmodule',['current_module',['../mpx__supt_8c.html#a3d19c725b7f9f45e9da97a79ca6a4737',1,'mpx_supt.c']]]
+];
