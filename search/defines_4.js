@@ -1,6 +1,7 @@
 var searchData=
 [
   ['e_5femptpcb',['E_EMPTPCB',['../error__handler_8h.html#a9130fe84c195bc11d2a4f581e21932bb',1,'error_handler.h']]],
+  ['e_5fexists',['E_EXISTS',['../error__handler_8h.html#af48d333c144fdec9fd5049ce3c77a392',1,'error_handler.h']]],
   ['e_5fformat',['E_FORMAT',['../error__handler_8h.html#a46d2fbabcbcb9c16e7ea472acc051b62',1,'error_handler.h']]],
   ['e_5ffree_5fmem',['E_FREE_MEM',['../error__handler_8h.html#ac229fe6d18e12b9b5317760d6671e01c',1,'error_handler.h']]],
   ['e_5fnone',['E_NONE',['../error__handler_8h.html#a51f5d246d1e4636e99c22f21ae639de6',1,'error_handler.h']]],
