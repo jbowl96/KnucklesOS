@@ -1,15 +1,21 @@
 <map id="include/core/serial.h" name="include/core/serial.h">
-<area shape="rect" id="node2" href="$interrupts_8c.html" title="kernel/core/interrupts.c" alt="" coords="5,80,160,107"/>
-<area shape="rect" id="node3" href="$kmain_8c.html" title="kernel/core/kmain.c" alt="" coords="180,304,316,331"/>
-<area shape="rect" id="node4" href="$polling_8h.html" title="modules/polling.h" alt="" coords="401,80,524,107"/>
-<area shape="rect" id="node6" href="$command__handler_8h.html" title="modules/command_handler.h" alt="" coords="488,229,680,256"/>
-<area shape="rect" id="node11" href="$serial_8c.html" title="kernel/core/serial.c" alt="" coords="686,80,818,107"/>
-<area shape="rect" id="node12" href="$system_8c.html" title="kernel/core/system.c" alt="" coords="843,80,987,107"/>
-<area shape="rect" id="node13" href="$heap_8c.html" title="kernel/mem/heap.c" alt="" coords="1011,80,1144,107"/>
-<area shape="rect" id="node14" href="$mpx__supt_8c.html" title="modules/mpx_supt.c" alt="" coords="1169,80,1311,107"/>
-<area shape="rect" id="node5" href="$real__time__clock_8h.html" title="modules/real_time_clock.h" alt="" coords="286,155,463,181"/>
-<area shape="rect" id="node10" href="$polling_8c.html" title="modules/polling.c" alt="" coords="488,155,611,181"/>
-<area shape="rect" id="node9" href="$real__time__clock_8c.html" title="modules/real_time_clock.c" alt="" coords="286,229,463,256"/>
-<area shape="rect" id="node7" href="$command__handler_8c.html" title="modules/command_handler.c" alt="" coords="413,304,605,331"/>
-<area shape="rect" id="node8" href="$help_8c.html" title="modules/help.c" alt="" coords="630,304,741,331"/>
+<area shape="rect" id="node2" href="$interrupts_8c.html" title="kernel/core/interrupts.c" alt="" coords="5,259,160,285"/>
+<area shape="rect" id="node3" href="$process__queue_8h.html" title="modules/R2/process\l_queue.h" alt="" coords="358,80,501,121"/>
+<area shape="rect" id="node5" href="$command__handler_8h.html" title="modules/command_handler.h" alt="" coords="493,259,685,285"/>
+<area shape="rect" id="node6" href="$kmain_8c.html" title="kernel/core/kmain.c" alt="" coords="748,333,884,360"/>
+<area shape="rect" id="node11" href="$polling_8h.html" title="modules/polling.h" alt="" coords="853,87,976,114"/>
+<area shape="rect" id="node15" href="$procsr3_8h.html" title="modules/R3/procsr3.h" alt="" coords="627,87,778,114"/>
+<area shape="rect" id="node17" href="$serial_8c.html" title="kernel/core/serial.c" alt="" coords="1001,87,1133,114"/>
+<area shape="rect" id="node18" href="$system_8c.html" title="kernel/core/system.c" alt="" coords="1157,87,1301,114"/>
+<area shape="rect" id="node19" href="$heap_8c.html" title="kernel/mem/heap.c" alt="" coords="1325,87,1459,114"/>
+<area shape="rect" id="node20" href="$mpx__supt_8c.html" title="modules/mpx_supt.c" alt="" coords="1483,87,1626,114"/>
+<area shape="rect" id="node4" href="$queue__commands_8h.html" title="modules/R2/queue_commands.h" alt="" coords="120,177,333,203"/>
+<area shape="rect" id="node10" href="$process__queue_8c.html" title="modules/R2/process\l_queue.c" alt="" coords="358,169,501,211"/>
+<area shape="rect" id="node9" href="$queue__commands_8c.html" title="modules/R2/queue_commands.c" alt="" coords="184,259,397,285"/>
+<area shape="rect" id="node7" href="$command__handler_8c.html" title="modules/command_handler.c" alt="" coords="356,333,548,360"/>
+<area shape="rect" id="node8" href="$help_8c.html" title="modules/help.c" alt="" coords="573,333,683,360"/>
+<area shape="rect" id="node12" href="$real__time__clock_8h.html" title="modules/real_time_clock.h" alt="" coords="854,177,1031,203"/>
+<area shape="rect" id="node14" href="$polling_8c.html" title="modules/polling.c" alt="" coords="1056,177,1179,203"/>
+<area shape="rect" id="node13" href="$real__time__clock_8c.html" title="modules/real_time_clock.c" alt="" coords="854,259,1031,285"/>
+<area shape="rect" id="node16" href="$procsr3_8c.html" title="modules/R3/procsr3.c" alt="" coords="627,177,778,203"/>
 </map>

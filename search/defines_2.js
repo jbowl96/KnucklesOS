@@ -6,6 +6,7 @@ var searchData=
   ['com3',['COM3',['../serial_8h.html#abbed02672431595364c5dd35809303a6',1,'serial.h']]],
   ['com4',['COM4',['../serial_8h.html#a595cabb01568ba641574d24546d99c6b',1,'serial.h']]],
   ['com_5fport',['COM_PORT',['../mpx__supt_8h.html#a702309aca6604d528fd1e9aa0879a0c7',1,'mpx_supt.h']]],
+  ['com_5fsize',['COM_SIZE',['../polling_8h.html#a34894c3038ffb3b5a739b1079bd4161d',1,'polling.h']]],
   ['complete_5fdate',['COMPLETE_DATE',['../command__handler_8h.html#a4fc92a38a929f850cbdbf1bb502c7e30',1,'command_handler.h']]],
   ['cr',['CR',['../polling_8h.html#a876ce77f3c672c7162658151e648389e',1,'polling.h']]]
 ];

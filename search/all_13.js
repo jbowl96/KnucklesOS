@@ -6,6 +6,6 @@ var searchData=
   ['tables_2ec',['tables.c',['../tables_8c.html',1,'']]],
   ['tables_2eh',['tables.h',['../tables_8h.html',1,'']]],
   ['tables_5fphys',['tables_phys',['../structpage__dir.html#a7336b695acaf516613dda626129129d0',1,'page_dir']]],
-  ['tail',['tail',['../structQueue.html#a957549fc98d20209ac21c49710b27b43',1,'Queue']]],
-  ['true',['TRUE',['../mpx__supt_8h.html#aa8cecfc5c5c054d2875c03e77b7be15d',1,'TRUE():&#160;mpx_supt.h'],['../pcb_8h.html#ac80b09976226d1f179d0911462a93034a08f175a5505a10b9ed657defeb050e4b',1,'true():&#160;pcb.h']]]
+  ['tail',['tail',['../structHistory.html#affbfceb44df1aba0cca4a5751b2b1827',1,'History::tail()'],['../structQueue.html#a957549fc98d20209ac21c49710b27b43',1,'Queue::tail()']]],
+  ['true',['true',['../pcb_8h.html#ac80b09976226d1f179d0911462a93034a08f175a5505a10b9ed657defeb050e4b',1,'true():&#160;pcb.h'],['../mpx__supt_8h.html#aa8cecfc5c5c054d2875c03e77b7be15d',1,'TRUE():&#160;mpx_supt.h']]]
 ];

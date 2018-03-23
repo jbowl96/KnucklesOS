@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['head',['head',['../structfooter.html#acae33dac61c9505ff5b850f88d32dd0b',1,'footer::head()'],['../structQueue.html#a15157e293475f7fe203afa861ad9996e',1,'Queue::head()']]],
+  ['head',['head',['../structfooter.html#acae33dac61c9505ff5b850f88d32dd0b',1,'footer::head()'],['../structHistory.html#ab548325c36911b172d7454d6bdce990a',1,'History::head()'],['../structQueue.html#a15157e293475f7fe203afa861ad9996e',1,'Queue::head()']]],
   ['header',['header',['../structheader.html',1,'']]],
   ['heap',['heap',['../structheap.html',1,'']]],
   ['heap_2ec',['heap.c',['../heap_8c.html',1,'']]],
@@ -12,10 +12,12 @@ var searchData=
   ['helpcreate',['helpCreate',['../help_8c.html#a76cc31a26b65e8e42db105bc25597edf',1,'helpCreate():&#160;help.c'],['../help_8h.html#a76cc31a26b65e8e42db105bc25597edf',1,'helpCreate():&#160;help.c']]],
   ['helpgetdate',['helpGetDate',['../help_8c.html#a0f223b2f9d2c4887ab9d4943a565a20f',1,'helpGetDate():&#160;help.c'],['../help_8h.html#a0f223b2f9d2c4887ab9d4943a565a20f',1,'helpGetDate():&#160;help.c']]],
   ['helpgettime',['helpGetTime',['../help_8c.html#ab023cd64db7b635c8e4048430fdd51c9',1,'helpGetTime():&#160;help.c'],['../help_8h.html#ab023cd64db7b635c8e4048430fdd51c9',1,'helpGetTime():&#160;help.c']]],
+  ['helploadr3',['helpLoadr3',['../help_8c.html#a51e11f0e7aa3b551543be4d8f0a00868',1,'helpLoadr3():&#160;help.c'],['../help_8h.html#a51e11f0e7aa3b551543be4d8f0a00868',1,'helpLoadr3():&#160;help.c']]],
   ['helppriority',['helpPriority',['../help_8c.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd',1,'helpPriority():&#160;help.c'],['../help_8h.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd',1,'helpPriority():&#160;help.c']]],
   ['helpquit',['helpQuit',['../help_8c.html#ab5c83d4c90e7a46111bc1dd96a98d8f0',1,'helpQuit():&#160;help.c'],['../help_8h.html#ab5c83d4c90e7a46111bc1dd96a98d8f0',1,'helpQuit():&#160;help.c']]],
   ['helpremove',['helpRemove',['../help_8c.html#a74eac5b0a0210911bd693de3479eb346',1,'helpRemove():&#160;help.c'],['../help_8h.html#a74eac5b0a0210911bd693de3479eb346',1,'helpRemove():&#160;help.c']]],
   ['helpresume',['helpResume',['../help_8c.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d',1,'helpResume():&#160;help.c'],['../help_8h.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d',1,'helpResume():&#160;help.c']]],
+  ['helpsetalarm',['helpSetAlarm',['../help_8c.html#a7a8a07d4c8cd8879607b5c390b1a63bb',1,'helpSetAlarm():&#160;help.c'],['../help_8h.html#a7a8a07d4c8cd8879607b5c390b1a63bb',1,'helpSetAlarm():&#160;help.c']]],
   ['helpsetdate',['helpSetDate',['../help_8c.html#a315b74fd1af8e5c10ae8fea09a7f1343',1,'helpSetDate():&#160;help.c'],['../help_8h.html#a315b74fd1af8e5c10ae8fea09a7f1343',1,'helpSetDate():&#160;help.c']]],
   ['helpsettime',['helpSetTime',['../help_8c.html#a38bedc7695ebaf1fddec31cac15327b0',1,'helpSetTime():&#160;help.c'],['../help_8h.html#a38bedc7695ebaf1fddec31cac15327b0',1,'helpSetTime():&#160;help.c']]],
   ['helpshow',['helpShow',['../help_8c.html#aa3500ca7686233a9444d7ff32f4879cb',1,'helpShow():&#160;help.c'],['../help_8h.html#aa3500ca7686233a9444d7ff32f4879cb',1,'helpShow():&#160;help.c']]],
@@ -25,7 +27,8 @@ var searchData=
   ['helpsuspend',['helpSuspend',['../help_8c.html#a0f0b94c01c7119598f5a9d6844b37983',1,'helpSuspend():&#160;help.c'],['../help_8h.html#a0f0b94c01c7119598f5a9d6844b37983',1,'helpSuspend():&#160;help.c']]],
   ['helpunblock',['helpUnblock',['../help_8c.html#aaba57a3e86d2a58ea32014dbf3619cb6',1,'helpUnblock():&#160;help.c'],['../help_8h.html#aaba57a3e86d2a58ea32014dbf3619cb6',1,'helpUnblock():&#160;help.c']]],
   ['helpversion',['helpVersion',['../help_8c.html#a6b64cff6b85c2b7edb02636de6e9d2ba',1,'helpVersion():&#160;help.c'],['../help_8h.html#a6b64cff6b85c2b7edb02636de6e9d2ba',1,'helpVersion():&#160;help.c']]],
-  ['history',['history',['../command__handler_8c.html#a20a905e5529c6aa145a1eadfb556903b',1,'history():&#160;command_handler.c'],['../polling_8c.html#a20a905e5529c6aa145a1eadfb556903b',1,'history():&#160;polling.c']]],
+  ['helpyield',['helpYield',['../help_8c.html#a45e8a852841b5728e72decefcfa98155',1,'helpYield():&#160;help.c'],['../help_8h.html#a45e8a852841b5728e72decefcfa98155',1,'helpYield():&#160;help.c']]],
+  ['history',['History',['../structHistory.html',1,'History'],['../command__handler_8c.html#a20a905e5529c6aa145a1eadfb556903b',1,'history():&#160;command_handler.c'],['../polling_8c.html#a20a905e5529c6aa145a1eadfb556903b',1,'history():&#160;polling.c']]],
   ['hlt',['hlt',['../system_8h.html#a954b0134ce21d80f0efb22c77e821da3',1,'system.h']]],
   ['hour',['hour',['../structdate__time.html#a4331b46df7b89763a85ea97a246c4ee2',1,'date_time::hour()'],['../structdate__time__char.html#aba8973ca8e5c86bfb9e3c1fbb97c90a8',1,'date_time_char::hour()']]]
 ];

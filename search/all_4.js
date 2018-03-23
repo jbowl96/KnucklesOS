@@ -33,6 +33,11 @@ var searchData=
   ['do_5freserved',['do_reserved',['../interrupts_8c.html#a3b448798302562f8ef16b8ee1de71ba7',1,'interrupts.c']]],
   ['do_5fsegment_5fnot_5fpresent',['do_segment_not_present',['../interrupts_8c.html#ac36f6e131887ab7f2e9e4f93858f8a34',1,'interrupts.c']]],
   ['do_5fstack_5fsegment',['do_stack_segment',['../interrupts_8c.html#a70282e61c45bf8c1b0ace8021977207d',1,'interrupts.c']]],
+  ['dontcall1',['dontCall1',['../command__handler_8c.html#a9c6f2bea4515ab937f86bd4610c44c94',1,'command_handler.c']]],
+  ['dontcall2',['dontCall2',['../command__handler_8c.html#ab8438f6a300844adf564c36a1a120786',1,'command_handler.c']]],
+  ['dontcall3',['dontCall3',['../command__handler_8c.html#a1d607a4a4f408172915d8bdfd8639ac9',1,'command_handler.c']]],
+  ['dontcall4',['dontCall4',['../command__handler_8c.html#aa6bc03022f7dbc3e1e4550a47bf11a96',1,'command_handler.c']]],
   ['double_5ffault',['double_fault',['../interrupts_8c.html#ae2b9f5b44e05e0c53f8eaaa98396d627',1,'interrupts.c']]],
-  ['down',['DOWN',['../polling_8h.html#a4193cd1c8c2e6ebd0e056fa2364a663f',1,'polling.h']]]
+  ['down',['DOWN',['../polling_8h.html#a4193cd1c8c2e6ebd0e056fa2364a663f',1,'polling.h']]],
+  ['ds',['ds',['../structcontext.html#ae636622afec7fe9c8b18504168023d1e',1,'context']]]
 ];

@@ -12,7 +12,6 @@ var queue__commands_8c =
     [ "showReady", "queue__commands_8c.html#a284cd3bedf3fafb973e9290bb776253b", null ],
     [ "suspend", "queue__commands_8c.html#ab426dd8d57781e0a0e22384b097b2b86", null ],
     [ "unblock", "queue__commands_8c.html#ac406b3c18db2077fc0bcde2624de9ddf", null ],
-    [ "bufferSize", "queue__commands_8c.html#a8556d19b129aa550f5b2819ed0320e83", null ],
     [ "count", "queue__commands_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf", null ],
-    [ "showBuffer", "queue__commands_8c.html#a6435690cffacef2a5a50f2c1d150c2b5", null ]
+    [ "showBuffer", "queue__commands_8c.html#a0c5c71452049d0c86d1918fb6e0980be", null ]
 ];

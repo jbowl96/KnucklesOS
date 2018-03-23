@@ -1,9 +1,10 @@
 <map id="modules/R2/queue_commands.c" name="modules/R2/queue_commands.c">
-<area shape="rect" id="node2" href="$queue__commands_8h.html" title="queue_commands.h" alt="" coords="135,80,274,107"/>
-<area shape="rect" id="node3" href="$process__queue_8h.html" title="process_queue.h" alt="" coords="85,155,207,181"/>
+<area shape="rect" id="node2" href="$queue__commands_8h.html" title="queue_commands.h" alt="" coords="162,80,301,107"/>
+<area shape="rect" id="node3" href="$process__queue_8h.html" title="process_queue.h" alt="" coords="89,155,211,181"/>
 <area shape="rect" id="node5" href="$error__handler_8h.html" title="../error_handler.h" alt="" coords="222,304,342,331"/>
-<area shape="rect" id="node4" href="$pcb_8h.html" title="pcb.h" alt="" coords="119,229,173,256"/>
+<area shape="rect" id="node4" href="$pcb_8h.html" title="pcb.h" alt="" coords="189,229,244,256"/>
 <area shape="rect" id="node8" href="$string_8h.html" title="string.h" alt="" coords="5,304,71,331"/>
+<area shape="rect" id="node9" href="$serial_8h.html" title="core/serial.h" alt="" coords="71,229,165,256"/>
 <area shape="rect" id="node6" href="$mpx__supt_8h.html" title="../mpx_supt.h" alt="" coords="95,304,197,331"/>
 <area shape="rect" id="node7" href="$system_8h.html" title="system.h" alt="" coords="53,379,129,405"/>
 </map>

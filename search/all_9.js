@@ -3,7 +3,8 @@ var searchData=
   ['icw1',['ICW1',['../interrupts_8c.html#ac56445256ce58f14f3c61af0cbf0cdad',1,'interrupts.c']]],
   ['icw4',['ICW4',['../interrupts_8c.html#a7945f331ddf94a0e0e938f825bc4d43c',1,'interrupts.c']]],
   ['id',['id',['../structindex__table.html#a6e0e8e27a6a47e8ae2078b6fa447087f',1,'index_table']]],
-  ['idle',['IDLE',['../mpx__supt_8h.html#a9c21a7caee326d7803b94ae1952b27ca',1,'IDLE():&#160;mpx_supt.h'],['../mpx__supt_8c.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'idle():&#160;mpx_supt.c'],['../mpx__supt_8h.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'idle():&#160;mpx_supt.c']]],
+  ['idle',['idle',['../mpx__supt_8c.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'idle():&#160;mpx_supt.c'],['../mpx__supt_8h.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'idle():&#160;mpx_supt.c'],['../mpx__supt_8h.html#a9c21a7caee326d7803b94ae1952b27ca',1,'IDLE():&#160;mpx_supt.h']]],
+  ['idleproc',['idleProc',['../procsr3_8c.html#a9a132bf38fc7b7bffcefa62df92c2bdf',1,'idleProc():&#160;procsr3.c'],['../procsr3_8h.html#a9a132bf38fc7b7bffcefa62df92c2bdf',1,'idleProc():&#160;procsr3.c']]],
   ['idt_5fentries',['idt_entries',['../interrupts_8c.html#a3c386c59636822ce451be20cc1433a55',1,'idt_entries():&#160;tables.c'],['../tables_8c.html#a3c386c59636822ce451be20cc1433a55',1,'idt_entries():&#160;tables.c']]],
   ['idt_5fentry_5fstruct',['idt_entry_struct',['../structidt__entry__struct.html',1,'']]],
   ['idt_5fptr',['idt_ptr',['../tables_8c.html#a76f617adbc46449bbc39e7b46504b7c4',1,'tables.c']]],
@@ -35,5 +36,6 @@ var searchData=
   ['iret',['iret',['../system_8h.html#a6eab829c77f5e1d2786863e18547b81b',1,'system.h']]],
   ['isr0',['isr0',['../interrupts_8c.html#af88eb8e98d943aa0461c01de3cb53493',1,'interrupts.c']]],
   ['isspace',['isspace',['../string_8h.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf',1,'isspace(const char *c):&#160;string.c'],['../string_8c.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf',1,'isspace(const char *c):&#160;string.c']]],
-  ['issuspended',['isSuspended',['../structpcb.html#ad24343a96bec63f82fe4c5be266cef2e',1,'pcb']]]
+  ['issuspended',['isSuspended',['../structpcb.html#ad24343a96bec63f82fe4c5be266cef2e',1,'pcb']]],
+  ['itoa',['itoa',['../string_8h.html#a5f5060e726c98974935b8ff3627df693',1,'itoa(int num, char *buffer, unsigned int bufferSize):&#160;string.c'],['../string_8c.html#a5f5060e726c98974935b8ff3627df693',1,'itoa(int num, char *buffer, unsigned int bufferSize):&#160;string.c']]]
 ];

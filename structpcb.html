@@ -115,11 +115,16 @@ $(document).ready(function(){initNavTree('structpcb.html','');});
 </div><!--header-->
 <div class="contents">
 
+<p>Struct containing PCB information.  
+ <a href="structpcb.html#details">More...</a></p>
+
 <p><code>#include &lt;<a class="el" href="pcb_8h_source.html">pcb.h</a>&gt;</code></p>
 <div class="dynheader">
 Collaboration diagram for pcb:</div>
 <div class="dyncontent">
 <div class="center"><img src="structpcb__coll__graph.png" border="0" usemap="#pcb_coll__map" alt="Collaboration graph"/></div>
+<map name="pcb_coll__map" id="pcb_coll__map">
+</map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
@@ -134,18 +139,19 @@ Public Attributes</h2></td></tr>
 <tr class="separator:ab97f8ca3e24782ed25b0cb4f21c351dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad24343a96bec63f82fe4c5be266cef2e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpcb.html#ad24343a96bec63f82fe4c5be266cef2e">isSuspended</a></td></tr>
 <tr class="separator:ad24343a96bec63f82fe4c5be266cef2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a078043c3774d589131b870f9e4f5e7dd"><td class="memItemLeft" align="right" valign="top">unsigned char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpcb.html#a078043c3774d589131b870f9e4f5e7dd">stackTop</a></td></tr>
-<tr class="separator:a078043c3774d589131b870f9e4f5e7dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d0d7c29ed47b2608d86c8f0217f43f2"><td class="memItemLeft" align="right" valign="top">unsigned char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpcb.html#a3d0d7c29ed47b2608d86c8f0217f43f2">stackBase</a></td></tr>
-<tr class="separator:a3d0d7c29ed47b2608d86c8f0217f43f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87f7cc05ae217cf1baeb154dcc025dab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="system_8h.html#a757de76cafbcddaac0d1632902fe4cb8">u32int</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpcb.html#a87f7cc05ae217cf1baeb154dcc025dab">stackTop</a></td></tr>
+<tr class="separator:a87f7cc05ae217cf1baeb154dcc025dab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d23aadf61a1cae47e173c85b678fc7a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="system_8h.html#a757de76cafbcddaac0d1632902fe4cb8">u32int</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpcb.html#a6d23aadf61a1cae47e173c85b678fc7a">stackBase</a></td></tr>
+<tr class="separator:a6d23aadf61a1cae47e173c85b678fc7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d5a2ebfefa02614a99ee8cca5f5600d"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structpcb.html">pcb</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpcb.html#a6d5a2ebfefa02614a99ee8cca5f5600d">next</a></td></tr>
 <tr class="separator:a6d5a2ebfefa02614a99ee8cca5f5600d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acc2a2eeedbfe6ba0696a74998de5dc0c"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structpcb.html">pcb</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpcb.html#acc2a2eeedbfe6ba0696a74998de5dc0c">previous</a></td></tr>
 <tr class="separator:acc2a2eeedbfe6ba0696a74998de5dc0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock">
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00038">38</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<div class="textblock"><p>Struct containing PCB information. </p>
+
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00051">51</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 </div><h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="a04269302716954d77ca6bc1a99f4403b"></a>
 <div class="memitem">
@@ -158,7 +164,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>system or application process </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00040">40</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00053">53</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
@@ -173,7 +179,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>is the process suspended? (false, true) </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00043">43</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00056">56</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
@@ -188,7 +194,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>name of the PCB </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00039">39</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00052">52</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
@@ -203,7 +209,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>pointer to the next PCB </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00046">46</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00059">59</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
@@ -218,7 +224,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>pointer to the previous PCB </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00047">47</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00060">60</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
@@ -233,37 +239,37 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>process priority (0-9, where 0 is highest priority) </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00041">41</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00054">54</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
-<a class="anchor" id="a3d0d7c29ed47b2608d86c8f0217f43f2"></a>
+<a class="anchor" id="a6d23aadf61a1cae47e173c85b678fc7a"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">unsigned char* pcb::stackBase</td>
+          <td class="memname"><a class="el" href="system_8h.html#a757de76cafbcddaac0d1632902fe4cb8">u32int</a>* pcb::stackBase</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <p>stack base </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00045">45</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00058">58</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
-<a class="anchor" id="a078043c3774d589131b870f9e4f5e7dd"></a>
+<a class="anchor" id="a87f7cc05ae217cf1baeb154dcc025dab"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">unsigned char* pcb::stackTop</td>
+          <td class="memname"><a class="el" href="system_8h.html#a757de76cafbcddaac0d1632902fe4cb8">u32int</a>* pcb::stackTop</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <p>stack top </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00044">44</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00057">57</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>
@@ -278,7 +284,7 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>current state of the process (ready, running, blocked) </p>
 
-<p>Definition at line <a class="el" href="pcb_8h_source.html#l00042">42</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
+<p>Definition at line <a class="el" href="pcb_8h_source.html#l00055">55</a> of file <a class="el" href="pcb_8h_source.html">pcb.h</a>.</p>
 
 </div>
 </div>

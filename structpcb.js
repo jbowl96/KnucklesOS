@@ -6,7 +6,7 @@ var structpcb =
     [ "next", "structpcb.html#a6d5a2ebfefa02614a99ee8cca5f5600d", null ],
     [ "previous", "structpcb.html#acc2a2eeedbfe6ba0696a74998de5dc0c", null ],
     [ "priority", "structpcb.html#a1850f2ea7807c7368c02f0062bfa33ca", null ],
-    [ "stackBase", "structpcb.html#a3d0d7c29ed47b2608d86c8f0217f43f2", null ],
-    [ "stackTop", "structpcb.html#a078043c3774d589131b870f9e4f5e7dd", null ],
+    [ "stackBase", "structpcb.html#a6d23aadf61a1cae47e173c85b678fc7a", null ],
+    [ "stackTop", "structpcb.html#a87f7cc05ae217cf1baeb154dcc025dab", null ],
     [ "state", "structpcb.html#ab97f8ca3e24782ed25b0cb4f21c351dc", null ]
 ];

@@ -2,6 +2,7 @@ var string_8c =
 [
     [ "atoi", "string_8c.html#a30670a60464f77af17dfb353353d6df8", null ],
     [ "isspace", "string_8c.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf", null ],
+    [ "itoa", "string_8c.html#a5f5060e726c98974935b8ff3627df693", null ],
     [ "memset", "string_8c.html#ace6ee45c30e71865e6eb635200379db9", null ],
     [ "strcat", "string_8c.html#a8908188ae9fc2f05d993257ef001d553", null ],
     [ "strcmp", "string_8c.html#a11bd144d7d44914099a3aeddf1c8567d", null ],

@@ -4,10 +4,12 @@ var searchData=
   ['helpcreate',['helpCreate',['../help_8c.html#a76cc31a26b65e8e42db105bc25597edf',1,'helpCreate():&#160;help.c'],['../help_8h.html#a76cc31a26b65e8e42db105bc25597edf',1,'helpCreate():&#160;help.c']]],
   ['helpgetdate',['helpGetDate',['../help_8c.html#a0f223b2f9d2c4887ab9d4943a565a20f',1,'helpGetDate():&#160;help.c'],['../help_8h.html#a0f223b2f9d2c4887ab9d4943a565a20f',1,'helpGetDate():&#160;help.c']]],
   ['helpgettime',['helpGetTime',['../help_8c.html#ab023cd64db7b635c8e4048430fdd51c9',1,'helpGetTime():&#160;help.c'],['../help_8h.html#ab023cd64db7b635c8e4048430fdd51c9',1,'helpGetTime():&#160;help.c']]],
+  ['helploadr3',['helpLoadr3',['../help_8c.html#a51e11f0e7aa3b551543be4d8f0a00868',1,'helpLoadr3():&#160;help.c'],['../help_8h.html#a51e11f0e7aa3b551543be4d8f0a00868',1,'helpLoadr3():&#160;help.c']]],
   ['helppriority',['helpPriority',['../help_8c.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd',1,'helpPriority():&#160;help.c'],['../help_8h.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd',1,'helpPriority():&#160;help.c']]],
   ['helpquit',['helpQuit',['../help_8c.html#ab5c83d4c90e7a46111bc1dd96a98d8f0',1,'helpQuit():&#160;help.c'],['../help_8h.html#ab5c83d4c90e7a46111bc1dd96a98d8f0',1,'helpQuit():&#160;help.c']]],
   ['helpremove',['helpRemove',['../help_8c.html#a74eac5b0a0210911bd693de3479eb346',1,'helpRemove():&#160;help.c'],['../help_8h.html#a74eac5b0a0210911bd693de3479eb346',1,'helpRemove():&#160;help.c']]],
   ['helpresume',['helpResume',['../help_8c.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d',1,'helpResume():&#160;help.c'],['../help_8h.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d',1,'helpResume():&#160;help.c']]],
+  ['helpsetalarm',['helpSetAlarm',['../help_8c.html#a7a8a07d4c8cd8879607b5c390b1a63bb',1,'helpSetAlarm():&#160;help.c'],['../help_8h.html#a7a8a07d4c8cd8879607b5c390b1a63bb',1,'helpSetAlarm():&#160;help.c']]],
   ['helpsetdate',['helpSetDate',['../help_8c.html#a315b74fd1af8e5c10ae8fea09a7f1343',1,'helpSetDate():&#160;help.c'],['../help_8h.html#a315b74fd1af8e5c10ae8fea09a7f1343',1,'helpSetDate():&#160;help.c']]],
   ['helpsettime',['helpSetTime',['../help_8c.html#a38bedc7695ebaf1fddec31cac15327b0',1,'helpSetTime():&#160;help.c'],['../help_8h.html#a38bedc7695ebaf1fddec31cac15327b0',1,'helpSetTime():&#160;help.c']]],
   ['helpshow',['helpShow',['../help_8c.html#aa3500ca7686233a9444d7ff32f4879cb',1,'helpShow():&#160;help.c'],['../help_8h.html#aa3500ca7686233a9444d7ff32f4879cb',1,'helpShow():&#160;help.c']]],
@@ -16,5 +18,6 @@ var searchData=
   ['helpshowready',['helpShowReady',['../help_8c.html#a3c11afbeb725d7333d5456d7647b8c71',1,'helpShowReady():&#160;help.c'],['../help_8h.html#a3c11afbeb725d7333d5456d7647b8c71',1,'helpShowReady():&#160;help.c']]],
   ['helpsuspend',['helpSuspend',['../help_8c.html#a0f0b94c01c7119598f5a9d6844b37983',1,'helpSuspend():&#160;help.c'],['../help_8h.html#a0f0b94c01c7119598f5a9d6844b37983',1,'helpSuspend():&#160;help.c']]],
   ['helpunblock',['helpUnblock',['../help_8c.html#aaba57a3e86d2a58ea32014dbf3619cb6',1,'helpUnblock():&#160;help.c'],['../help_8h.html#aaba57a3e86d2a58ea32014dbf3619cb6',1,'helpUnblock():&#160;help.c']]],
-  ['helpversion',['helpVersion',['../help_8c.html#a6b64cff6b85c2b7edb02636de6e9d2ba',1,'helpVersion():&#160;help.c'],['../help_8h.html#a6b64cff6b85c2b7edb02636de6e9d2ba',1,'helpVersion():&#160;help.c']]]
+  ['helpversion',['helpVersion',['../help_8c.html#a6b64cff6b85c2b7edb02636de6e9d2ba',1,'helpVersion():&#160;help.c'],['../help_8h.html#a6b64cff6b85c2b7edb02636de6e9d2ba',1,'helpVersion():&#160;help.c']]],
+  ['helpyield',['helpYield',['../help_8c.html#a45e8a852841b5728e72decefcfa98155',1,'helpYield():&#160;help.c'],['../help_8h.html#a45e8a852841b5728e72decefcfa98155',1,'helpYield():&#160;help.c']]]
 ];

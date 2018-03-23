@@ -1,6 +1,7 @@
 var searchData=
 [
   ['idle',['idle',['../mpx__supt_8c.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'idle():&#160;mpx_supt.c'],['../mpx__supt_8h.html#a83abbeda22fc5e6c2b35523b64199c1c',1,'idle():&#160;mpx_supt.c']]],
+  ['idleproc',['idleProc',['../procsr3_8c.html#a9a132bf38fc7b7bffcefa62df92c2bdf',1,'idleProc():&#160;procsr3.c'],['../procsr3_8h.html#a9a132bf38fc7b7bffcefa62df92c2bdf',1,'idleProc():&#160;procsr3.c']]],
   ['idt_5fset_5fgate',['idt_set_gate',['../tables_8h.html#a9eca3fe1465f8d7d383551d804853139',1,'idt_set_gate(u8int idx, u32int base, u16int sel, u8int flags):&#160;tables.c'],['../tables_8c.html#a9eca3fe1465f8d7d383551d804853139',1,'idt_set_gate(u8int idx, u32int base, u16int sel, u8int flags):&#160;tables.c']]],
   ['init_5fgdt',['init_gdt',['../tables_8h.html#a86bb50044169930202cc403376ef40c3',1,'init_gdt():&#160;tables.c'],['../tables_8c.html#a86bb50044169930202cc403376ef40c3',1,'init_gdt():&#160;tables.c']]],
   ['init_5fidt',['init_idt',['../tables_8h.html#a35fe413107af682030ab7a4b6dff19b8',1,'init_idt():&#160;tables.c'],['../tables_8c.html#a35fe413107af682030ab7a4b6dff19b8',1,'init_idt():&#160;tables.c']]],
@@ -13,5 +14,6 @@ var searchData=
   ['invalid_5fop',['invalid_op',['../interrupts_8c.html#a422d8af60b69cc11dbcbb9d89c69756b',1,'interrupts.c']]],
   ['invalid_5ftss',['invalid_tss',['../interrupts_8c.html#a972be67f6a5432cc8eab8d27755fb00f',1,'interrupts.c']]],
   ['isr0',['isr0',['../interrupts_8c.html#af88eb8e98d943aa0461c01de3cb53493',1,'interrupts.c']]],
-  ['isspace',['isspace',['../string_8h.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf',1,'isspace(const char *c):&#160;string.c'],['../string_8c.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf',1,'isspace(const char *c):&#160;string.c']]]
+  ['isspace',['isspace',['../string_8h.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf',1,'isspace(const char *c):&#160;string.c'],['../string_8c.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf',1,'isspace(const char *c):&#160;string.c']]],
+  ['itoa',['itoa',['../string_8h.html#a5f5060e726c98974935b8ff3627df693',1,'itoa(int num, char *buffer, unsigned int bufferSize):&#160;string.c'],['../string_8c.html#a5f5060e726c98974935b8ff3627df693',1,'itoa(int num, char *buffer, unsigned int bufferSize):&#160;string.c']]]
 ];

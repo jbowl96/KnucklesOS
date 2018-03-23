@@ -1,13 +1,31 @@
 var polling_8h =
 [
+    [ "entry", "structentry.html", "structentry" ],
+    [ "History", "structHistory.html", "structHistory" ],
     [ "BACKSPACE", "polling_8h.html#a629568514359445d2fbda71d70eeb1ce", null ],
     [ "COM1", "polling_8h.html#a00dbb3ab1c59e14699be9393693e2248", null ],
+    [ "COM_SIZE", "polling_8h.html#a34894c3038ffb3b5a739b1079bd4161d", null ],
     [ "CR", "polling_8h.html#a876ce77f3c672c7162658151e648389e", null ],
     [ "DOWN", "polling_8h.html#a4193cd1c8c2e6ebd0e056fa2364a663f", null ],
     [ "ESC", "polling_8h.html#a4af1b6159e447ba72652bb7fcdfa726e", null ],
     [ "LEFT", "polling_8h.html#a437ef08681e7210d6678427030446a54", null ],
     [ "RIGHT", "polling_8h.html#a80fb826a684cf3f0d306b22aa100ddac", null ],
+    [ "START", "polling_8h.html#a3018c7600b7bb9866400596a56a57af7", null ],
     [ "UP", "polling_8h.html#a1965eaca47dbf3f87acdafc2208f04eb", null ],
+    [ "Entry", "polling_8h.html#a3d9d7ac511a1359af14e8beb384d4541", null ],
+    [ "addHistory", "polling_8h.html#a787501687946ea894a5b4357b69407a2", null ],
+    [ "AllocateEntry", "polling_8h.html#a900a4e5032f0648e45ef011b85c485a6", null ],
+    [ "backspace", "polling_8h.html#a3568fefca1264becbc63d7d675f8785c", null ],
+    [ "CreateEntry", "polling_8h.html#a5e50ab48813b291f049d06c7d70a43cd", null ],
+    [ "cursorLeft", "polling_8h.html#af02ba89858df521ec8f1160d34d15830", null ],
+    [ "cursorRight", "polling_8h.html#a5a31f1953b88724f7fe1d7de1a222bdd", null ],
+    [ "emptyBuffer", "polling_8h.html#a1a8710539dccf8a8ade0565079bf79ed", null ],
+    [ "getEntry", "polling_8h.html#a567103d2b17fc8caa546491e01d35b1c", null ],
     [ "polling", "polling_8h.html#a350f06f5a6db9b161dba2ffc658627ef", null ],
-    [ "setCursor", "polling_8h.html#a7a302633b3b04af58a8b0174efc65c17", null ]
+    [ "printCount", "polling_8h.html#a0d3649a6139acacbd192e65f00136350", null ],
+    [ "printIndex", "polling_8h.html#a5efd56b93a1fe8e75a599ebaea3049b6", null ],
+    [ "setCursor", "polling_8h.html#a7a302633b3b04af58a8b0174efc65c17", null ],
+    [ "setupHistory", "polling_8h.html#a4b323a55362424c15515b3c8efeaa647", null ],
+    [ "showFirst", "polling_8h.html#abd81705826502b473731b8a1838e608a", null ],
+    [ "showHistory", "polling_8h.html#ace4a0145342fb817124ade840831136f", null ]
 ];

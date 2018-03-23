@@ -7,6 +7,7 @@ var interrupts_8c =
     [ "PIC2", "interrupts_8c.html#ac90003f52c8d736193efc954ece08e58", null ],
     [ "bounds", "interrupts_8c.html#a96724d36ad85f9a02231d8e6fe0434df", null ],
     [ "breakpoint", "interrupts_8c.html#a874043e2396dd8ce20ec7af3ea1e2a86", null ],
+    [ "cop_print", "interrupts_8c.html#aac98593bdf80fadf8abd30833a43c13c", null ],
     [ "coprocessor", "interrupts_8c.html#a5c538c7b7a55e3c981780b599fcb1de7", null ],
     [ "coprocessor_segment", "interrupts_8c.html#a1d688a0a370977c03fa98884a6e771e9", null ],
     [ "debug", "interrupts_8c.html#a0d0105433f9c65c14928027b3f0966b7", null ],
@@ -44,5 +45,10 @@ var interrupts_8c =
     [ "rtc_isr", "interrupts_8c.html#a52f2615cebbdeab188085a03c913fcf9", null ],
     [ "segment_not_present", "interrupts_8c.html#af1748d9ea65ba652bc92074ab6570d8e", null ],
     [ "stack_segment", "interrupts_8c.html#a1ccc3198890318741629a03bb88bee6f", null ],
-    [ "idt_entries", "interrupts_8c.html#a3c386c59636822ce451be20cc1433a55", null ]
+    [ "sys_call", "interrupts_8c.html#a37410c23ebdd0e45cbe7503f237d7638", null ],
+    [ "sys_call_isr", "interrupts_8c.html#a99cc9cf3204b4d11bebf1f85b763f608", null ],
+    [ "cop", "interrupts_8c.html#a199c6145b9b5ee43b3961894ee22830a", null ],
+    [ "copContext", "interrupts_8c.html#a88ff6e0262d1dcfc69beda837522eae0", null ],
+    [ "idt_entries", "interrupts_8c.html#a3c386c59636822ce451be20cc1433a55", null ],
+    [ "params", "interrupts_8c.html#a3b4b77494d0fad58939896ddc5290c99", null ]
 ];
