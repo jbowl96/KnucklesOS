@@ -1,7 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"structentry.html#a6ba6b7d14932763dcb0df242b5ff2dfd":[1,0,4,1],
-"structentry.html#a85b088cabc2d538945604e51933ed2e1":[1,0,4,0],
 "structfooter.html":[1,0,5],
 "structfooter.html#acae33dac61c9505ff5b850f88d32dd0b":[1,0,5,0],
 "structgdt__descriptor__struct.html":[1,0,6],

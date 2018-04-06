@@ -13,8 +13,8 @@ var searchData=
   ['free_5ftime_5freader',['free_time_reader',['../real__time__clock_8h.html#a50971fb43f6be4a37bc1d28806cfa253',1,'free_time_reader(date_time_char *time_reader):&#160;real_time_clock.c'],['../real__time__clock_8c.html#a50971fb43f6be4a37bc1d28806cfa253',1,'free_time_reader(date_time_char *time_reader):&#160;real_time_clock.c']]],
   ['free_5ftime_5fwriter',['free_time_writer',['../real__time__clock_8h.html#a4d00d57aa15bf38a87bb848ed45dd152',1,'free_time_writer(date_time *time_reader):&#160;real_time_clock.c'],['../real__time__clock_8c.html#a463dad9604f7e67f34bc0ce182681a67',1,'free_time_writer(date_time *time_writer):&#160;real_time_clock.c']]],
   ['freeblock',['freeBlock',['../memory_8h.html#a3bb13686b1349e2a7ae51ef914920d3babc062daf4477f52649b0262425b4df75',1,'memory.h']]],
-  ['freemem',['freeMem',['../memory__commands_8h.html#a0fa0b9698192e9fb7a30a125426d665c',1,'freeMem(u32int address):&#160;memory_commands.c'],['../memory__commands_8c.html#a0fa0b9698192e9fb7a30a125426d665c',1,'freeMem(u32int address):&#160;memory_commands.c']]],
-  ['freememory',['freeMemory',['../memory__lists_8h.html#a875eb280e66d357f8317db711003e6f8',1,'freeMemory(u32int address):&#160;memory_lists.c'],['../memory__lists_8c.html#a875eb280e66d357f8317db711003e6f8',1,'freeMemory(u32int address):&#160;memory_lists.c']]],
+  ['freemem',['freeMem',['../memory__commands_8h.html#a0fa0b9698192e9fb7a30a125426d665c',1,'memory_commands.h']]],
+  ['freememory',['freeMemory',['../memory__lists_8h.html#a86b9c1cb5e3d2aac61f598fae7db5f4f',1,'freeMemory(void *cmcb_void):&#160;memory_lists.c'],['../memory__lists_8c.html#a86b9c1cb5e3d2aac61f598fae7db5f4f',1,'freeMemory(void *cmcb_void):&#160;memory_lists.c']]],
   ['freepcb',['FreePCB',['../pcb_8h.html#a7bb8a21481d02c4f335596501b7b9923',1,'FreePCB(PCB *pcb):&#160;pcb.c'],['../pcb_8c.html#a7bb8a21481d02c4f335596501b7b9923',1,'FreePCB(PCB *pcb):&#160;pcb.c']]],
   ['fs',['fs',['../structcontext.html#a5e778314cc8c537f0a27726bfa673c8e',1,'context']]]
 ];

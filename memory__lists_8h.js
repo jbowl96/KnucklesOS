@@ -3,7 +3,7 @@ var memory__lists_8h =
     [ "list", "structlist.html", "structlist" ],
     [ "List", "memory__lists_8h.html#aea9600c17a2a32b560e34fa5a386afe9", null ],
     [ "allocate", "memory__lists_8h.html#ab5f9520a64c2ba44f86f88ab76be7961", null ],
-    [ "freeMemory", "memory__lists_8h.html#a875eb280e66d357f8317db711003e6f8", null ],
+    [ "freeMemory", "memory__lists_8h.html#a86b9c1cb5e3d2aac61f598fae7db5f4f", null ],
     [ "getAllocatedList", "memory__lists_8h.html#a5fe0b95a4b3ad6ea962dce63ef71c685", null ],
     [ "getFreeList", "memory__lists_8h.html#ab0cf87c0a9107280ceecbbe8b0c9c9b7", null ],
     [ "insertCMCB", "memory__lists_8h.html#ac17e16ba965889b494b1e1fa333dd605", null ],

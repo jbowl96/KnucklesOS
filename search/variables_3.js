@@ -5,7 +5,7 @@ var searchData=
   ['command',['command',['../structentry.html#a85b088cabc2d538945604e51933ed2e1',1,'entry']]],
   ['cop',['cop',['../interrupts_8c.html#a199c6145b9b5ee43b3961894ee22830a',1,'interrupts.c']]],
   ['copcontext',['copContext',['../interrupts_8c.html#a88ff6e0262d1dcfc69beda837522eae0',1,'interrupts.c']]],
-  ['count',['count',['../structHistory.html#ae71fc46f4a1538bef0c17fb67aedaeae',1,'History::count()'],['../structQueue.html#a0f56b04440d87d231b06f3e287c8eb6a',1,'Queue::count()'],['../structlist.html#a02602b3e2f22638b437128f0ecbc6432',1,'list::count()'],['../help_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'count():&#160;help.c'],['../queue__commands_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'count():&#160;queue_commands.c'],['../memory__lists_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'count():&#160;memory_lists.c']]],
+  ['count',['count',['../structHistory.html#ae71fc46f4a1538bef0c17fb67aedaeae',1,'History::count()'],['../structQueue.html#a0f56b04440d87d231b06f3e287c8eb6a',1,'Queue::count()'],['../structlist.html#a02602b3e2f22638b437128f0ecbc6432',1,'list::count()'],['../help_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'count():&#160;help.c'],['../queue__commands_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf',1,'count():&#160;queue_commands.c']]],
   ['count_5fptr',['count_ptr',['../structparam.html#ab61d8fe96dbeed1ef0387802ac453c53',1,'param']]],
   ['counter',['counter',['../memory__lists_8c.html#ac6c464b0a83a481fee26175f6229c5cc',1,'memory_lists.c']]],
   ['cs',['cs',['../structcontext.html#a29cb887d9a426ddb24c04237bce5df6d',1,'context']]],
