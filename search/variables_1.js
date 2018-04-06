@@ -13,5 +13,6 @@ var searchData=
   ['alarmtime1',['alarmTime1',['../command__handler_8c.html#a4b237cbb6ed522db122d904dd6bc093b',1,'command_handler.c']]],
   ['alarmtime2',['alarmTime2',['../command__handler_8c.html#a7ecd508b79d671ba169efb1e05da7166',1,'command_handler.c']]],
   ['alarmtime3',['alarmTime3',['../command__handler_8c.html#a9174ea20ef5e47d08659605860c92fbd',1,'command_handler.c']]],
-  ['alarmtime4',['alarmTime4',['../command__handler_8c.html#a02c423c01f2dd208d4c59e456f8f5922',1,'command_handler.c']]]
+  ['alarmtime4',['alarmTime4',['../command__handler_8c.html#a02c423c01f2dd208d4c59e456f8f5922',1,'command_handler.c']]],
+  ['availablememory',['availableMemory',['../memory__lists_8c.html#a7bd32fc8b5de06fd4e634ee12979bcb3',1,'memory_lists.c']]]
 ];

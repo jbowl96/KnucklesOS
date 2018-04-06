@@ -33,7 +33,7 @@
   <td id="projectlogo"><img alt="Logo" src="knuckles.jpg"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Knuckles OS
-   &#160;<span id="projectnumber">R2</span>
+   &#160;<span id="projectnumber">R5</span>
    </div>
    <div id="projectbrief">CS 450</div>
   </td>
@@ -145,25 +145,21 @@ $(document).ready(function(){initNavTree('globals_func_i.html','');});
 &#160;
 
 <h3><a class="anchor" id="index_i"></a>- i -</h3><ul>
-<li>idle()
-: <a class="el" href="mpx__supt_8c.html#a83abbeda22fc5e6c2b35523b64199c1c">mpx_supt.c</a>
-, <a class="el" href="mpx__supt_8h.html#a83abbeda22fc5e6c2b35523b64199c1c">mpx_supt.h</a>
-</li>
 <li>idleProc()
 : <a class="el" href="procsr3_8h.html#a9a132bf38fc7b7bffcefa62df92c2bdf">procsr3.h</a>
 , <a class="el" href="procsr3_8c.html#a9a132bf38fc7b7bffcefa62df92c2bdf">procsr3.c</a>
 </li>
 <li>idt_set_gate()
-: <a class="el" href="tables_8h.html#a9eca3fe1465f8d7d383551d804853139">tables.h</a>
-, <a class="el" href="tables_8c.html#a9eca3fe1465f8d7d383551d804853139">tables.c</a>
+: <a class="el" href="tables_8c.html#a9eca3fe1465f8d7d383551d804853139">tables.c</a>
+, <a class="el" href="tables_8h.html#a9eca3fe1465f8d7d383551d804853139">tables.h</a>
 </li>
 <li>init_gdt()
-: <a class="el" href="tables_8c.html#a86bb50044169930202cc403376ef40c3">tables.c</a>
-, <a class="el" href="tables_8h.html#a86bb50044169930202cc403376ef40c3">tables.h</a>
+: <a class="el" href="tables_8h.html#a86bb50044169930202cc403376ef40c3">tables.h</a>
+, <a class="el" href="tables_8c.html#a86bb50044169930202cc403376ef40c3">tables.c</a>
 </li>
 <li>init_idt()
-: <a class="el" href="tables_8h.html#a35fe413107af682030ab7a4b6dff19b8">tables.h</a>
-, <a class="el" href="tables_8c.html#a35fe413107af682030ab7a4b6dff19b8">tables.c</a>
+: <a class="el" href="tables_8c.html#a35fe413107af682030ab7a4b6dff19b8">tables.c</a>
+, <a class="el" href="tables_8h.html#a35fe413107af682030ab7a4b6dff19b8">tables.h</a>
 </li>
 <li>init_irq()
 : <a class="el" href="interrupts_8h.html#ad17d9a8aa78440af8fc40d3fd55dbad8">interrupts.h</a>
@@ -181,12 +177,20 @@ $(document).ready(function(){initNavTree('globals_func_i.html','');});
 , <a class="el" href="interrupts_8c.html#afbc0dbef6f15e2df21b38724ea38c483">interrupts.c</a>
 </li>
 <li>init_serial()
-: <a class="el" href="serial_8c.html#a7078c07ff8b2c48780558549a8f7cf90">serial.c</a>
-, <a class="el" href="serial_8h.html#a7078c07ff8b2c48780558549a8f7cf90">serial.h</a>
+: <a class="el" href="serial_8h.html#a7078c07ff8b2c48780558549a8f7cf90">serial.h</a>
+, <a class="el" href="serial_8c.html#a7078c07ff8b2c48780558549a8f7cf90">serial.c</a>
+</li>
+<li>initializeHeap()
+: <a class="el" href="memory__commands_8h.html#aa9f1b1e44ac94141e2a52bbeb4ed2ec4">memory_commands.h</a>
+, <a class="el" href="memory__commands_8c.html#aa9f1b1e44ac94141e2a52bbeb4ed2ec4">memory_commands.c</a>
+</li>
+<li>insertCMCB()
+: <a class="el" href="memory__lists_8h.html#ac17e16ba965889b494b1e1fa333dd605">memory_lists.h</a>
+, <a class="el" href="memory__lists_8c.html#ac17e16ba965889b494b1e1fa333dd605">memory_lists.c</a>
 </li>
 <li>InsertPCB()
-: <a class="el" href="process__queue_8h.html#a8835be2b1ae7b08861052ba54da74493">process_queue.h</a>
-, <a class="el" href="process__queue_8c.html#a8835be2b1ae7b08861052ba54da74493">process_queue.c</a>
+: <a class="el" href="process__queue_8c.html#a8835be2b1ae7b08861052ba54da74493">process_queue.c</a>
+, <a class="el" href="process__queue_8h.html#a8835be2b1ae7b08861052ba54da74493">process_queue.h</a>
 </li>
 <li>invalid_op()
 : <a class="el" href="interrupts_8c.html#a422d8af60b69cc11dbcbb9d89c69756b">interrupts.c</a>
@@ -194,12 +198,16 @@ $(document).ready(function(){initNavTree('globals_func_i.html','');});
 <li>invalid_tss()
 : <a class="el" href="interrupts_8c.html#a972be67f6a5432cc8eab8d27755fb00f">interrupts.c</a>
 </li>
+<li>isEmpty()
+: <a class="el" href="memory__commands_8h.html#a653c98c68c558505b75b04c44b7c838e">memory_commands.h</a>
+, <a class="el" href="memory__commands_8c.html#a653c98c68c558505b75b04c44b7c838e">memory_commands.c</a>
+</li>
 <li>isr0()
 : <a class="el" href="interrupts_8c.html#af88eb8e98d943aa0461c01de3cb53493">interrupts.c</a>
 </li>
 <li>isspace()
-: <a class="el" href="string_8h.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf">string.h</a>
-, <a class="el" href="string_8c.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf">string.c</a>
+: <a class="el" href="string_8c.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf">string.c</a>
+, <a class="el" href="string_8h.html#a0f3d37d605e9e6d4fc1853ff9d4b91bf">string.h</a>
 </li>
 <li>itoa()
 : <a class="el" href="string_8c.html#a5f5060e726c98974935b8ff3627df693">string.c</a>

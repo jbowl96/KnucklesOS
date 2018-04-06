@@ -1,9 +1,9 @@
-<map id="modules/polling.h" name="modules/polling.h">
-<area shape="rect" id="node2" href="$kmain_8c.html" title="kernel/core/kmain.c" alt="" coords="5,229,141,256"/>
-<area shape="rect" id="node3" href="$real__time__clock_8h.html" title="modules/real_time_clock.h" alt="" coords="158,80,335,107"/>
-<area shape="rect" id="node8" href="$polling_8c.html" title="modules/polling.c" alt="" coords="360,80,483,107"/>
-<area shape="rect" id="node4" href="$command__handler_8h.html" title="modules/command_handler.h" alt="" coords="151,155,343,181"/>
-<area shape="rect" id="node7" href="$real__time__clock_8c.html" title="modules/real_time_clock.c" alt="" coords="367,155,545,181"/>
-<area shape="rect" id="node5" href="$command__handler_8c.html" title="modules/command_handler.c" alt="" coords="165,229,357,256"/>
-<area shape="rect" id="node6" href="$help_8c.html" title="modules/help.c" alt="" coords="382,229,493,256"/>
+<map id="include/modules/polling.h" name="include/modules/polling.h">
+<area shape="rect" id="node2" href="$real__time__clock_8h.html" title="include/modules/real\l_time_clock.h" alt="" coords="320,80,461,121"/>
+<area shape="rect" id="node4" href="$kmain_8c.html" title="kernel/core/kmain.c" alt="" coords="403,259,539,285"/>
+<area shape="rect" id="node8" href="$polling_8c.html" title="modules/polling.c" alt="" coords="555,87,677,114"/>
+<area shape="rect" id="node3" href="$command__handler_8h.html" title="include/modules/command\l_handler.h" alt="" coords="101,169,278,211"/>
+<area shape="rect" id="node7" href="$real__time__clock_8c.html" title="modules/real_time_clock.c" alt="" coords="302,177,479,203"/>
+<area shape="rect" id="node5" href="$command__handler_8c.html" title="modules/command_handler.c" alt="" coords="5,259,197,285"/>
+<area shape="rect" id="node6" href="$help_8c.html" title="modules/help.c" alt="" coords="222,259,333,285"/>
 </map>

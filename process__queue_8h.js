@@ -3,7 +3,6 @@ var process__queue_8h =
     [ "Queue", "structQueue.html", "structQueue" ],
     [ "addBlocked", "process__queue_8h.html#a216d7a29d170c38161b62930384e32fa", null ],
     [ "addReady", "process__queue_8h.html#ae8358439f9c5dd539bd95caa95a771bc", null ],
-    [ "addReadyAtEnd", "process__queue_8h.html#ac0b635562b94369cde139d70f5c3474a", null ],
     [ "FindPCB", "process__queue_8h.html#ae4562089d23760f4f92aabb94fe77dad", null ],
     [ "getIndexBlocked", "process__queue_8h.html#aa6ea4e5609dc436bad1e913192489770", null ],
     [ "getIndexReady", "process__queue_8h.html#a3411297141920eb70740286b44d004e5", null ],

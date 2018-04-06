@@ -4,6 +4,8 @@ var searchData=
   ['base_5fhigh',['base_high',['../structidt__entry__struct.html#a1c6a29cae5ea9a832cf4261aaa5b43d0',1,'idt_entry_struct::base_high()'],['../structgdt__entry__struct.html#aa03c14867c293012449a3b18a07f45f2',1,'gdt_entry_struct::base_high()'],['../tables_8h.html#a706c81b840522a69ab6e6e941630d5e4',1,'base_high():&#160;tables.h']]],
   ['base_5flow',['base_low',['../structidt__entry__struct.html#aefa75d6bfe07f1f544393b4dbccb3e76',1,'idt_entry_struct::base_low()'],['../structgdt__entry__struct.html#a90f05cd7f227a34e977a639843a23275',1,'gdt_entry_struct::base_low()'],['../tables_8h.html#a0a776dced2c26f16298425cde39f8364',1,'base_low():&#160;tables.h']]],
   ['base_5fmid',['base_mid',['../structgdt__entry__struct.html#a0369f1e190c433425c5b0f40c2070715',1,'gdt_entry_struct::base_mid()'],['../tables_8h.html#a35c709a004babd09046db9f667ba0646',1,'base_mid():&#160;tables.h']]],
+  ['beginningaddress',['beginningAddress',['../structcmcb.html#a13021add78ed4b6abedd540cf71204d1',1,'cmcb']]],
   ['block',['block',['../structindex__entry.html#a0a8d4dc0595b5f2ef42e7080c5221c1f',1,'index_entry']]],
+  ['blockptr',['blockPtr',['../structcmcb.html#ab0eb92523386519532faa024071b7b0f',1,'cmcb']]],
   ['buffer_5fptr',['buffer_ptr',['../structparam.html#af15d63bace93014ec7425635c892ce99',1,'param']]]
 ];

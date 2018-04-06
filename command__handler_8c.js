@@ -25,6 +25,8 @@ var command__handler_8c =
     [ "dontCall2", "command__handler_8c.html#ab8438f6a300844adf564c36a1a120786", null ],
     [ "dontCall3", "command__handler_8c.html#a1d607a4a4f408172915d8bdfd8639ac9", null ],
     [ "dontCall4", "command__handler_8c.html#aa6bc03022f7dbc3e1e4550a47bf11a96", null ],
+    [ "empty", "command__handler_8c.html#a7d076984670ab0600048b27ffb9ccdc3", null ],
+    [ "emptyMsg", "command__handler_8c.html#a00d8c3472077de6712f47b49be3408f2", null ],
     [ "history", "command__handler_8c.html#a20a905e5529c6aa145a1eadfb556903b", null ],
     [ "quit", "command__handler_8c.html#a2896431d6a80cd39b3d24b40237612ee", null ]
 ];

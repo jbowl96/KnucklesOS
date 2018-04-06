@@ -1,6 +1,5 @@
 var mpx__supt_8c =
 [
-    [ "idle", "mpx__supt_8c.html#a83abbeda22fc5e6c2b35523b64199c1c", null ],
     [ "mpx_init", "mpx__supt_8c.html#a53332c6a3107a4feed6e2e79690a6ffa", null ],
     [ "sys_alloc_mem", "mpx__supt_8c.html#a61adad2abba0a3a225c2290b3de1fe93", null ],
     [ "sys_free_mem", "mpx__supt_8c.html#a950663d39dbb073c9dff9cf3b5d3392c", null ],

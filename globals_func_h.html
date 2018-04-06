@@ -33,7 +33,7 @@
   <td id="projectlogo"><img alt="Logo" src="knuckles.jpg"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Knuckles OS
-   &#160;<span id="projectnumber">R2</span>
+   &#160;<span id="projectnumber">R5</span>
    </div>
    <div id="projectbrief">CS 450</div>
   </td>
@@ -145,6 +145,10 @@ $(document).ready(function(){initNavTree('globals_func_h.html','');});
 &#160;
 
 <h3><a class="anchor" id="index_h"></a>- h -</h3><ul>
+<li>helpAllocateMem()
+: <a class="el" href="help_8h.html#a56cc907de6cf719ccbef6a284e3e2c4b">help.h</a>
+, <a class="el" href="help_8c.html#a56cc907de6cf719ccbef6a284e3e2c4b">help.c</a>
+</li>
 <li>helpBlock()
 : <a class="el" href="help_8c.html#a262cb6bb095507df7d40039ef8945187">help.c</a>
 , <a class="el" href="help_8h.html#a262cb6bb095507df7d40039ef8945187">help.h</a>
@@ -153,73 +157,97 @@ $(document).ready(function(){initNavTree('globals_func_h.html','');});
 : <a class="el" href="help_8h.html#a76cc31a26b65e8e42db105bc25597edf">help.h</a>
 , <a class="el" href="help_8c.html#a76cc31a26b65e8e42db105bc25597edf">help.c</a>
 </li>
+<li>helpFreeMem()
+: <a class="el" href="help_8c.html#affc1b61501f1987c61d723d91dc8c219">help.c</a>
+, <a class="el" href="help_8h.html#affc1b61501f1987c61d723d91dc8c219">help.h</a>
+</li>
 <li>helpGetDate()
-: <a class="el" href="help_8c.html#a0f223b2f9d2c4887ab9d4943a565a20f">help.c</a>
-, <a class="el" href="help_8h.html#a0f223b2f9d2c4887ab9d4943a565a20f">help.h</a>
+: <a class="el" href="help_8h.html#a0f223b2f9d2c4887ab9d4943a565a20f">help.h</a>
+, <a class="el" href="help_8c.html#a0f223b2f9d2c4887ab9d4943a565a20f">help.c</a>
 </li>
 <li>helpGetTime()
 : <a class="el" href="help_8h.html#ab023cd64db7b635c8e4048430fdd51c9">help.h</a>
 , <a class="el" href="help_8c.html#ab023cd64db7b635c8e4048430fdd51c9">help.c</a>
 </li>
+<li>helpInitializeHeap()
+: <a class="el" href="help_8h.html#a496d4bf1d5bdac4edcd19ca18709cbb4">help.h</a>
+, <a class="el" href="help_8c.html#a496d4bf1d5bdac4edcd19ca18709cbb4">help.c</a>
+</li>
+<li>helpIsEmpty()
+: <a class="el" href="help_8c.html#ab404ca6873a8fe2bbc870524be3aa575">help.c</a>
+, <a class="el" href="help_8h.html#ab404ca6873a8fe2bbc870524be3aa575">help.h</a>
+</li>
 <li>helpLoadr3()
-: <a class="el" href="help_8c.html#a51e11f0e7aa3b551543be4d8f0a00868">help.c</a>
-, <a class="el" href="help_8h.html#a51e11f0e7aa3b551543be4d8f0a00868">help.h</a>
+: <a class="el" href="help_8h.html#a51e11f0e7aa3b551543be4d8f0a00868">help.h</a>
+, <a class="el" href="help_8c.html#a51e11f0e7aa3b551543be4d8f0a00868">help.c</a>
 </li>
 <li>helpPriority()
-: <a class="el" href="help_8c.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd">help.c</a>
-, <a class="el" href="help_8h.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd">help.h</a>
+: <a class="el" href="help_8h.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd">help.h</a>
+, <a class="el" href="help_8c.html#a7fe6e95e9d3b2d6a124c88e40bcf1edd">help.c</a>
 </li>
 <li>helpQuit()
-: <a class="el" href="help_8c.html#ab5c83d4c90e7a46111bc1dd96a98d8f0">help.c</a>
-, <a class="el" href="help_8h.html#ab5c83d4c90e7a46111bc1dd96a98d8f0">help.h</a>
+: <a class="el" href="help_8h.html#ab5c83d4c90e7a46111bc1dd96a98d8f0">help.h</a>
+, <a class="el" href="help_8c.html#ab5c83d4c90e7a46111bc1dd96a98d8f0">help.c</a>
 </li>
 <li>helpRemove()
 : <a class="el" href="help_8h.html#a74eac5b0a0210911bd693de3479eb346">help.h</a>
 , <a class="el" href="help_8c.html#a74eac5b0a0210911bd693de3479eb346">help.c</a>
 </li>
 <li>helpResume()
-: <a class="el" href="help_8c.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d">help.c</a>
-, <a class="el" href="help_8h.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d">help.h</a>
+: <a class="el" href="help_8h.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d">help.h</a>
+, <a class="el" href="help_8c.html#ae7ba9e8d9dd13cc1eef2cfd923b4e14d">help.c</a>
 </li>
 <li>helpSetAlarm()
-: <a class="el" href="help_8c.html#a7a8a07d4c8cd8879607b5c390b1a63bb">help.c</a>
-, <a class="el" href="help_8h.html#a7a8a07d4c8cd8879607b5c390b1a63bb">help.h</a>
+: <a class="el" href="help_8h.html#a7a8a07d4c8cd8879607b5c390b1a63bb">help.h</a>
+, <a class="el" href="help_8c.html#a7a8a07d4c8cd8879607b5c390b1a63bb">help.c</a>
 </li>
 <li>helpSetDate()
-: <a class="el" href="help_8c.html#a315b74fd1af8e5c10ae8fea09a7f1343">help.c</a>
-, <a class="el" href="help_8h.html#a315b74fd1af8e5c10ae8fea09a7f1343">help.h</a>
+: <a class="el" href="help_8h.html#a315b74fd1af8e5c10ae8fea09a7f1343">help.h</a>
+, <a class="el" href="help_8c.html#a315b74fd1af8e5c10ae8fea09a7f1343">help.c</a>
 </li>
 <li>helpSetTime()
 : <a class="el" href="help_8c.html#a38bedc7695ebaf1fddec31cac15327b0">help.c</a>
 , <a class="el" href="help_8h.html#a38bedc7695ebaf1fddec31cac15327b0">help.h</a>
 </li>
 <li>helpShow()
-: <a class="el" href="help_8c.html#aa3500ca7686233a9444d7ff32f4879cb">help.c</a>
-, <a class="el" href="help_8h.html#aa3500ca7686233a9444d7ff32f4879cb">help.h</a>
+: <a class="el" href="help_8h.html#aa3500ca7686233a9444d7ff32f4879cb">help.h</a>
+, <a class="el" href="help_8c.html#aa3500ca7686233a9444d7ff32f4879cb">help.c</a>
 </li>
 <li>helpShowAll()
 : <a class="el" href="help_8c.html#a957646aab6775a036e6253c776ad9c61">help.c</a>
 , <a class="el" href="help_8h.html#a957646aab6775a036e6253c776ad9c61">help.h</a>
 </li>
+<li>helpShowAllocated()
+: <a class="el" href="help_8h.html#a05b30b3a2f755f6c1908b4f5c35c4333">help.h</a>
+, <a class="el" href="help_8c.html#a05b30b3a2f755f6c1908b4f5c35c4333">help.c</a>
+</li>
 <li>helpShowBlocked()
 : <a class="el" href="help_8h.html#a86ae052337824abfbd55c3393b29ad68">help.h</a>
 , <a class="el" href="help_8c.html#a86ae052337824abfbd55c3393b29ad68">help.c</a>
 </li>
+<li>helpShowFree()
+: <a class="el" href="help_8h.html#a0b3aa265c7b39032c07f85b9683a06ad">help.h</a>
+, <a class="el" href="help_8c.html#a0b3aa265c7b39032c07f85b9683a06ad">help.c</a>
+</li>
+<li>helpShowMemory()
+: <a class="el" href="help_8c.html#a3f1ea6e80999697250b05683e1a7f658">help.c</a>
+, <a class="el" href="help_8h.html#a3f1ea6e80999697250b05683e1a7f658">help.h</a>
+</li>
 <li>helpShowReady()
-: <a class="el" href="help_8c.html#a3c11afbeb725d7333d5456d7647b8c71">help.c</a>
-, <a class="el" href="help_8h.html#a3c11afbeb725d7333d5456d7647b8c71">help.h</a>
+: <a class="el" href="help_8h.html#a3c11afbeb725d7333d5456d7647b8c71">help.h</a>
+, <a class="el" href="help_8c.html#a3c11afbeb725d7333d5456d7647b8c71">help.c</a>
 </li>
 <li>helpSuspend()
-: <a class="el" href="help_8c.html#a0f0b94c01c7119598f5a9d6844b37983">help.c</a>
-, <a class="el" href="help_8h.html#a0f0b94c01c7119598f5a9d6844b37983">help.h</a>
+: <a class="el" href="help_8h.html#a0f0b94c01c7119598f5a9d6844b37983">help.h</a>
+, <a class="el" href="help_8c.html#a0f0b94c01c7119598f5a9d6844b37983">help.c</a>
 </li>
 <li>helpUnblock()
-: <a class="el" href="help_8h.html#aaba57a3e86d2a58ea32014dbf3619cb6">help.h</a>
-, <a class="el" href="help_8c.html#aaba57a3e86d2a58ea32014dbf3619cb6">help.c</a>
+: <a class="el" href="help_8c.html#aaba57a3e86d2a58ea32014dbf3619cb6">help.c</a>
+, <a class="el" href="help_8h.html#aaba57a3e86d2a58ea32014dbf3619cb6">help.h</a>
 </li>
 <li>helpVersion()
-: <a class="el" href="help_8h.html#a6b64cff6b85c2b7edb02636de6e9d2ba">help.h</a>
-, <a class="el" href="help_8c.html#a6b64cff6b85c2b7edb02636de6e9d2ba">help.c</a>
+: <a class="el" href="help_8c.html#a6b64cff6b85c2b7edb02636de6e9d2ba">help.c</a>
+, <a class="el" href="help_8h.html#a6b64cff6b85c2b7edb02636de6e9d2ba">help.h</a>
 </li>
 <li>helpYield()
 : <a class="el" href="help_8c.html#a45e8a852841b5728e72decefcfa98155">help.c</a>

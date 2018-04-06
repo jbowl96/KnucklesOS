@@ -1,10 +1,10 @@
 var searchData=
 [
   ['debug',['debug',['../interrupts_8c.html#a0d0105433f9c65c14928027b3f0966b7',1,'interrupts.c']]],
-  ['dec_5fto_5fbcd',['Dec_to_BCD',['../real__time__clock_8c.html#ae04ea92ed95f1ed2959233000a75b551',1,'Dec_to_BCD(date_time *writer):&#160;real_time_clock.c'],['../real__time__clock_8h.html#ae04ea92ed95f1ed2959233000a75b551',1,'Dec_to_BCD(date_time *writer):&#160;real_time_clock.c']]],
+  ['dec_5fto_5fbcd',['Dec_to_BCD',['../real__time__clock_8h.html#ae04ea92ed95f1ed2959233000a75b551',1,'Dec_to_BCD(date_time *writer):&#160;real_time_clock.c'],['../real__time__clock_8c.html#ae04ea92ed95f1ed2959233000a75b551',1,'Dec_to_BCD(date_time *writer):&#160;real_time_clock.c']]],
   ['device_5fnot_5favailable',['device_not_available',['../interrupts_8c.html#abe88cd1dcc26cb58ee785c714e016f72',1,'interrupts.c']]],
-  ['displaydate',['displayDate',['../real__time__clock_8c.html#a8b356e6a753ff5f13e5799532529c20e',1,'displayDate(date_time_char *date_reader):&#160;real_time_clock.c'],['../real__time__clock_8h.html#a8b356e6a753ff5f13e5799532529c20e',1,'displayDate(date_time_char *date_reader):&#160;real_time_clock.c']]],
-  ['displaytime',['displayTime',['../real__time__clock_8c.html#abcd60fe6c623c31f58858279b3b811a8',1,'displayTime(date_time_char *time_reader):&#160;real_time_clock.c'],['../real__time__clock_8h.html#abcd60fe6c623c31f58858279b3b811a8',1,'displayTime(date_time_char *time_reader):&#160;real_time_clock.c']]],
+  ['displaydate',['displayDate',['../real__time__clock_8h.html#a8b356e6a753ff5f13e5799532529c20e',1,'displayDate(date_time_char *date_reader):&#160;real_time_clock.c'],['../real__time__clock_8c.html#a8b356e6a753ff5f13e5799532529c20e',1,'displayDate(date_time_char *date_reader):&#160;real_time_clock.c']]],
+  ['displaytime',['displayTime',['../real__time__clock_8h.html#abcd60fe6c623c31f58858279b3b811a8',1,'displayTime(date_time_char *time_reader):&#160;real_time_clock.c'],['../real__time__clock_8c.html#abcd60fe6c623c31f58858279b3b811a8',1,'displayTime(date_time_char *time_reader):&#160;real_time_clock.c']]],
   ['divide_5ferror',['divide_error',['../interrupts_8c.html#a779cbe32e1a5f1dc8fa9b7191f116b28',1,'interrupts.c']]],
   ['do_5fbounds',['do_bounds',['../interrupts_8c.html#a27f47460ebcce0c6a6af781bd6f9fb9f',1,'interrupts.c']]],
   ['do_5fbreakpoint',['do_breakpoint',['../interrupts_8c.html#a0ea01197b18487b9e94d20d83055d743',1,'interrupts.c']]],

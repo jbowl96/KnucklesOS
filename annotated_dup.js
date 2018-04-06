@@ -1,5 +1,6 @@
 var annotated_dup =
 [
+    [ "cmcb", "structcmcb.html", "structcmcb" ],
     [ "context", "structcontext.html", "structcontext" ],
     [ "date_time", "structdate__time.html", "structdate__time" ],
     [ "date_time_char", "structdate__time__char.html", "structdate__time__char" ],
@@ -14,6 +15,7 @@ var annotated_dup =
     [ "idt_struct", "structidt__struct.html", "structidt__struct" ],
     [ "index_entry", "structindex__entry.html", "structindex__entry" ],
     [ "index_table", "structindex__table.html", "structindex__table" ],
+    [ "list", "structlist.html", "structlist" ],
     [ "page_dir", "structpage__dir.html", "structpage__dir" ],
     [ "page_entry", "structpage__entry.html", "structpage__entry" ],
     [ "page_table", "structpage__table.html", "structpage__table" ],

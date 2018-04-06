@@ -2,10 +2,9 @@ var searchData=
 [
   ['access',['access',['../structgdt__entry__struct.html#a7457cb21f29e919a8ea62fc0110ac238',1,'gdt_entry_struct::access()'],['../tables_8h.html#a360a726ac0b61d9e4e1be3ad34f80244',1,'access():&#160;tables.h']]],
   ['accessed',['accessed',['../structpage__entry.html#a8b4097e0cee08d028182b11bd1f73f92',1,'page_entry']]],
-  ['addblocked',['addBlocked',['../process__queue_8c.html#a216d7a29d170c38161b62930384e32fa',1,'addBlocked(PCB *pcb):&#160;process_queue.c'],['../process__queue_8h.html#a216d7a29d170c38161b62930384e32fa',1,'addBlocked(PCB *pcb):&#160;process_queue.c']]],
-  ['addhistory',['addHistory',['../polling_8c.html#a787501687946ea894a5b4357b69407a2',1,'addHistory(Entry *entry):&#160;polling.c'],['../polling_8h.html#a787501687946ea894a5b4357b69407a2',1,'addHistory(Entry *entry):&#160;polling.c']]],
-  ['addready',['addReady',['../process__queue_8c.html#ae8358439f9c5dd539bd95caa95a771bc',1,'addReady(PCB *pcb):&#160;process_queue.c'],['../process__queue_8h.html#ae8358439f9c5dd539bd95caa95a771bc',1,'addReady(PCB *pcb):&#160;process_queue.c']]],
-  ['addreadyatend',['addReadyAtEnd',['../process__queue_8c.html#ac0b635562b94369cde139d70f5c3474a',1,'addReadyAtEnd(PCB *pcb):&#160;process_queue.c'],['../process__queue_8h.html#ac0b635562b94369cde139d70f5c3474a',1,'addReadyAtEnd(PCB *pcb):&#160;process_queue.c']]],
+  ['addblocked',['addBlocked',['../process__queue_8h.html#a216d7a29d170c38161b62930384e32fa',1,'addBlocked(PCB *pcb):&#160;process_queue.c'],['../process__queue_8c.html#a216d7a29d170c38161b62930384e32fa',1,'addBlocked(PCB *pcb):&#160;process_queue.c']]],
+  ['addhistory',['addHistory',['../polling_8h.html#a787501687946ea894a5b4357b69407a2',1,'addHistory(Entry *entry):&#160;polling.c'],['../polling_8c.html#a787501687946ea894a5b4357b69407a2',1,'addHistory(Entry *entry):&#160;polling.c']]],
+  ['addready',['addReady',['../process__queue_8h.html#ae8358439f9c5dd539bd95caa95a771bc',1,'addReady(PCB *pcb):&#160;process_queue.c'],['../process__queue_8c.html#ae8358439f9c5dd539bd95caa95a771bc',1,'addReady(PCB *pcb):&#160;process_queue.c']]],
   ['alarmflag1',['alarmFlag1',['../command__handler_8c.html#aa44761267179610cd97d2840128a75b8',1,'command_handler.c']]],
   ['alarmflag2',['alarmFlag2',['../command__handler_8c.html#a93aaccf253d8867e43bf25d7fc006510',1,'command_handler.c']]],
   ['alarmflag3',['alarmFlag3',['../command__handler_8c.html#a9228ca415477caf0a734dd9f809f6e96',1,'command_handler.c']]],
@@ -19,10 +18,14 @@ var searchData=
   ['alarmtime3',['alarmTime3',['../command__handler_8c.html#a9174ea20ef5e47d08659605860c92fbd',1,'command_handler.c']]],
   ['alarmtime4',['alarmTime4',['../command__handler_8c.html#a02c423c01f2dd208d4c59e456f8f5922',1,'command_handler.c']]],
   ['alloc',['alloc',['../heap_8h.html#a2b1d5a9ba11695605f74fc10cd719af5',1,'alloc(u32int size, heap *hp, int align):&#160;heap.c'],['../heap_8c.html#a06dae34c7e7c73d518de00212a7c92da',1,'alloc(u32int size, heap *h, int align):&#160;heap.c']]],
-  ['allocateentry',['AllocateEntry',['../polling_8c.html#a900a4e5032f0648e45ef011b85c485a6',1,'AllocateEntry():&#160;polling.c'],['../polling_8h.html#a900a4e5032f0648e45ef011b85c485a6',1,'AllocateEntry():&#160;polling.c']]],
-  ['allocatepcb',['AllocatePCB',['../pcb_8c.html#a20be2fb30796b01e859494fd79c07ab6',1,'AllocatePCB():&#160;pcb.c'],['../pcb_8h.html#a20be2fb30796b01e859494fd79c07ab6',1,'AllocatePCB():&#160;pcb.c']]],
+  ['allocate',['allocate',['../memory__lists_8h.html#ab5f9520a64c2ba44f86f88ab76be7961',1,'allocate(u32int size):&#160;memory_lists.c'],['../memory__lists_8c.html#ab5f9520a64c2ba44f86f88ab76be7961',1,'allocate(u32int size):&#160;memory_lists.c']]],
+  ['allocatedblock',['allocatedBlock',['../memory_8h.html#a3bb13686b1349e2a7ae51ef914920d3ba9fa12b1ec547b2fc60b7c2722d1c9a65',1,'memory.h']]],
+  ['allocateentry',['AllocateEntry',['../polling_8h.html#a900a4e5032f0648e45ef011b85c485a6',1,'AllocateEntry():&#160;polling.c'],['../polling_8c.html#a900a4e5032f0648e45ef011b85c485a6',1,'AllocateEntry():&#160;polling.c']]],
+  ['allocatemem',['allocateMem',['../memory__commands_8h.html#af241505809454b1ea83e9da2984f7403',1,'allocateMem(u32int memory):&#160;memory_commands.c'],['../memory__commands_8c.html#af241505809454b1ea83e9da2984f7403',1,'allocateMem(u32int memory):&#160;memory_commands.c']]],
+  ['allocatepcb',['AllocatePCB',['../pcb_8h.html#a20be2fb30796b01e859494fd79c07ab6',1,'AllocatePCB():&#160;pcb.c'],['../pcb_8c.html#a20be2fb30796b01e859494fd79c07ab6',1,'AllocatePCB():&#160;pcb.c']]],
   ['application_5fprocess',['application_process',['../pcb_8h.html#aefe309d62b55b4d0be96f1a97fcbbadda4efe4836b5f64dfe3d44bf584e27df0b',1,'pcb.h']]],
   ['asm',['asm',['../system_8h.html#a71921cebf4610b0dbb2b7a0daaf3fedf',1,'system.h']]],
   ['asm_2eh',['asm.h',['../asm_8h.html',1,'']]],
-  ['atoi',['atoi',['../string_8h.html#a30670a60464f77af17dfb353353d6df8',1,'atoi(const char *s):&#160;string.c'],['../string_8c.html#a30670a60464f77af17dfb353353d6df8',1,'atoi(const char *s):&#160;string.c']]]
+  ['atoi',['atoi',['../string_8h.html#a30670a60464f77af17dfb353353d6df8',1,'atoi(const char *s):&#160;string.c'],['../string_8c.html#a30670a60464f77af17dfb353353d6df8',1,'atoi(const char *s):&#160;string.c']]],
+  ['availablememory',['availableMemory',['../memory__lists_8c.html#a7bd32fc8b5de06fd4e634ee12979bcb3',1,'memory_lists.c']]]
 ];

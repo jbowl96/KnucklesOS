@@ -1,9 +1,9 @@
 <map id="modules/real_time_clock.c" name="modules/real_time_clock.c">
-<area shape="rect" id="node2" href="$real__time__clock_8h.html" title="real_time_clock.h" alt="" coords="32,80,156,107"/>
-<area shape="rect" id="node3" href="$system_8h.html" title="system.h" alt="" coords="31,304,107,331"/>
-<area shape="rect" id="node4" href="$string_8h.html" title="string.h" alt="" coords="139,229,204,256"/>
-<area shape="rect" id="node5" href="$mpx__supt_8h.html" title="mpx_supt.h" alt="" coords="23,229,114,256"/>
-<area shape="rect" id="node6" href="$polling_8h.html" title="polling.h" alt="" coords="157,155,228,181"/>
-<area shape="rect" id="node7" href="$io_8h.html" title="core/io.h" alt="" coords="346,229,418,256"/>
-<area shape="rect" id="node8" href="$serial_8h.html" title="core/serial.h" alt="" coords="229,229,322,256"/>
+<area shape="rect" id="node2" href="$real__time__clock_8h.html" title="modules/real_time_clock.h" alt="" coords="31,80,208,107"/>
+<area shape="rect" id="node3" href="$system_8h.html" title="system.h" alt="" coords="55,304,131,331"/>
+<area shape="rect" id="node4" href="$string_8h.html" title="string.h" alt="" coords="188,229,254,256"/>
+<area shape="rect" id="node5" href="$mpx__supt_8h.html" title="modules/mpx_supt.h" alt="" coords="22,229,164,256"/>
+<area shape="rect" id="node6" href="$polling_8h.html" title="polling.h" alt="" coords="186,155,256,181"/>
+<area shape="rect" id="node7" href="$io_8h.html" title="core/io.h" alt="" coords="396,229,468,256"/>
+<area shape="rect" id="node8" href="$serial_8h.html" title="core/serial.h" alt="" coords="278,229,372,256"/>
 </map>

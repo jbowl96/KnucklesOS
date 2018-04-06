@@ -27,8 +27,9 @@ var searchData=
   ['edx',['edx',['../structcontext.html#a104da48ac40e0e3e94dfdfa7e7f0e8e9',1,'context']]],
   ['eflags',['eflags',['../structcontext.html#a70a4605bd1b897c096f5cc7f730214db',1,'context']]],
   ['eip',['eip',['../structcontext.html#a48807bac5338e9bcd6183f2f2061400b',1,'context']]],
-  ['empty',['empty',['../structindex__entry.html#afdbdffb4bd17e4ab003b94be3d5bade7',1,'index_entry']]],
-  ['emptybuffer',['emptyBuffer',['../polling_8c.html#a1a8710539dccf8a8ade0565079bf79ed',1,'emptyBuffer(char *buffer, int *index):&#160;polling.c'],['../polling_8h.html#a1a8710539dccf8a8ade0565079bf79ed',1,'emptyBuffer(char *buffer, int *index):&#160;polling.c']]],
+  ['empty',['empty',['../structindex__entry.html#afdbdffb4bd17e4ab003b94be3d5bade7',1,'index_entry::empty()'],['../command__handler_8c.html#a7d076984670ab0600048b27ffb9ccdc3',1,'empty():&#160;command_handler.c']]],
+  ['emptybuffer',['emptyBuffer',['../polling_8h.html#a1a8710539dccf8a8ade0565079bf79ed',1,'emptyBuffer(char *buffer, int *index):&#160;polling.c'],['../polling_8c.html#a1a8710539dccf8a8ade0565079bf79ed',1,'emptyBuffer(char *buffer, int *index):&#160;polling.c']]],
+  ['emptymsg',['emptyMsg',['../command__handler_8c.html#a00d8c3472077de6712f47b49be3408f2',1,'command_handler.c']]],
   ['end',['end',['../heap_8c.html#a57dfa4d169c6b9c0b4e7352bc0c34366',1,'heap.c']]],
   ['entry',['entry',['../structentry.html',1,'entry'],['../polling_8h.html#a3d9d7ac511a1359af14e8beb384d4541',1,'Entry():&#160;polling.h']]],
   ['er1',['er1',['../procsr3_8c.html#af397e3ef556cf98183ba5a7b5cf8dae7',1,'procsr3.c']]],
@@ -39,11 +40,11 @@ var searchData=
   ['error_5fhandler_2ec',['error_handler.c',['../error__handler_8c.html',1,'']]],
   ['error_5fhandler_2eh',['error_handler.h',['../error__handler_8h.html',1,'']]],
   ['error_5ft',['error_t',['../error__handler_8h.html#a9ad6b2dc3cbff040775e79656fe8e1a3',1,'error_handler.h']]],
-  ['errorhandler',['errorHandler',['../error__handler_8c.html#a2729a5739999ff5d52a8d6ed09fda468',1,'errorHandler(error_t error):&#160;error_handler.c'],['../error__handler_8h.html#a2729a5739999ff5d52a8d6ed09fda468',1,'errorHandler(error_t error):&#160;error_handler.c']]],
+  ['errorhandler',['errorHandler',['../error__handler_8h.html#a2729a5739999ff5d52a8d6ed09fda468',1,'errorHandler(error_t error):&#160;error_handler.c'],['../error__handler_8c.html#a2729a5739999ff5d52a8d6ed09fda468',1,'errorHandler(error_t error):&#160;error_handler.c']]],
   ['ersize',['erSize',['../procsr3_8c.html#a6fcbbc28a07d6e4c8ca82ed7ca978404',1,'procsr3.c']]],
   ['es',['es',['../structcontext.html#aca480d54d4be09cb005dc21e4ff05da1',1,'context']]],
   ['esc',['ESC',['../polling_8h.html#a4af1b6159e447ba72652bb7fcdfa726e',1,'polling.h']]],
   ['esi',['esi',['../structcontext.html#a736ce63e2112c400c59376b25af11068',1,'context']]],
   ['esp',['esp',['../structcontext.html#a5d56c844a4aa0dd6b7a7bf5b421cbf88',1,'context']]],
-  ['exit',['exit',['../help_8c.html#a0c0d46961b5b2f33cf556103214d48d2',1,'exit():&#160;help.c'],['../mpx__supt_8h.html#ad111e603bbebe5d87f6bc39264ce4733',1,'EXIT():&#160;mpx_supt.h']]]
+  ['exit',['EXIT',['../mpx__supt_8h.html#ad111e603bbebe5d87f6bc39264ce4733',1,'EXIT():&#160;mpx_supt.h'],['../help_8c.html#a0c0d46961b5b2f33cf556103214d48d2',1,'exit():&#160;help.c']]]
 ];
